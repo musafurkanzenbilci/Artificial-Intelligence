@@ -17,8 +17,8 @@ Implementation of Minimax and Alpha-Beta Pruning Algorithm in Python for the Gam
 
 ## Usage
 
-1. `print ( hw3 . SolveGame (" Minimax " , " nim1 . txt " , " MAX ") )` or
-    `print ( hw3 . SolveGame (" AlphaBeta " , " nim1 . txt " , " MAX ") )`
+1. `SolveGame("Minimax", "nim1.txt", "MAX")` or
+    `SolveGame("AlphaBeta", "nim1.txt" ,"MAX")`
 
 2. `nim1.txt` should be in form `[1,3,5]`. It means there are 3 piles and 1,3 and 5 is the number of objects.
 
